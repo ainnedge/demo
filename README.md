@@ -1,4 +1,4 @@
 readme for demo project
 
 for master
-from branch1
+from master same line modification
